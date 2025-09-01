@@ -19,16 +19,19 @@ A "Full-Stack Todo List Application built with Vite + React, Supabase, and Node.
 
 1. Clone the repository:
 ```bash
+git clone https://github.com/zainab-waheed/todo-app.git
+cd todo-app
 ## Screenshots
 
 ### Home Page
-![Home](src/assets/todo-home.png)
+![Home](src/assets/login.png)
 
 ### Add Task
-![Add Task](src/assets/todo-add-task.png)
+![Add Task](src/assets/todo.png)
 
-### Done Tasks
-![Done](src/assets/todo-done.png)
-git clone https://github.com/zainab-waheed/todo-app.git
-cd todo-app
+### List Tasks
+![List](src/assets/table.png)
+
+### User Tasks
+![User](src/assets/authentication.png)
 
